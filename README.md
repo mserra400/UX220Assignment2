@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-or surf to [https://mserra400.dev](https://mserra400.dev/~/gh/mserra400/UX220Assignment2). 
+or surf to [https://diy-pwa.dev](https://mserra400.dev/~/gh/mserra400/UX220Assignment2). 
 
 ```bash
 npm install
